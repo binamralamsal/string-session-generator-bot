@@ -8,6 +8,8 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "@grammyjs/storage-free": "^2.4.2",
     "express": "^4.19.2",
     "grammy": "^1.28.0",
     "telegram": "^2.23.2",
