@@ -6,7 +6,7 @@ const bot = new Bot(env.BOT_TOKEN);
 
 bot.command("start", (ctx) =>
   ctx.reply(
-    "This bot is for creating string session for javascript using gramjs"
+    "This bot is for creating string session for javascript using gramjs. Use /generate command to start."
   )
 );
 
